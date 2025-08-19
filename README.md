@@ -15,5 +15,4 @@ Each of the two recipes is structured by:
     7.A youtube link to watch a video tutorial.
 There is also a like button below each of the two recipes.
 
-This project has been styled using an external stylesheet named styles.css [www.chegsasga.com]
-(gjdkod)
+This project has been styled using an external stylesheet named styles.css
