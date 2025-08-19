@@ -23,7 +23,8 @@ img:hover{
     font-size: 4 rem;
     color: goldenrod;
     text-decoration: underline;
-    width: 100%; 
+    width: 100%;
+    background-color: darkgray; 
 }
 
 body {
